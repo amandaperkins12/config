@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <h1>libDrive Config</h1>
+    <h1>streamflix</h1>
     <p>
       Generate a config for
       <code><a href="https://github.com/libDrive/libDrive">libDrive</a></code
